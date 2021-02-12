@@ -1,0 +1,14 @@
+#container{
+    display: none;
+}
+span{
+    display: flex;
+    border: 2px solid;
+    padding: 1%;
+    margin: 1%;
+}
+h3{
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
